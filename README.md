@@ -16,17 +16,17 @@
 
 # Daniel Wuliutomo
 
-### Computer Science Student • AI Enthusiast • Backend Developer • Lifelong Learner
-
 ---
 
 # 👨‍💻 About Me
 
-I am a **Computer Science student** with a strong passion for **Artificial Intelligence, Machine Learning, and Backend Software Development**. I enjoy building applications that combine intelligent algorithms with scalable software architecture to solve real-world problems.
+I am a **Computer Science student** with a strong passion for **Artificial Intelligence, Machine Learning, and Backend Software Development**, with a particular focus on **Generative AI, Retrieval-Augmented Generation (RAG), Natural Language Processing (NLP), Full Stack Development, and Deep Learning**.
 
-My current interests focus on **Generative AI**, **Retrieval-Augmented Generation (RAG)**, **Natural Language Processing**, and **backend systems** built with Python.
+I enjoy building applications that combine intelligent algorithms with scalable and well-structured software architectures to solve real-world problems and improve user experiences.
 
-I believe software engineering is not only about writing code but also about designing maintainable, efficient, and impactful solutions.
+My current interests revolve around **Generative AI systems**, **RAG pipelines**, **Deep Learning models**, **NLP applications**, and **full stack development using modern frameworks and tools**, alongside backend systems built with Python.
+
+I believe software engineering is not only about writing code but also about designing maintainable, efficient, and impactful solutions that can scale and adapt to real-world needs.
 
 ### 🔭 Current Focus
 
