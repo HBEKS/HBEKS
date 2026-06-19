@@ -51,7 +51,9 @@ I believe software engineering is not only about writing code but also about des
 # 🛠️ Tech Stack
 
 ## 💻 Programming Languages
+
 <div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat\&logo=csharp\&logoColor=white)
@@ -61,10 +63,15 @@ I believe software engineering is not only about writing code but also about des
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat\&logo=kotlin\&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat\&logo=r\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=postgresql\&logoColor=white)
+
 </div>
+
 ---
+
 ## 🤖 AI & Machine Learning
+
 <div align="center">
+
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
@@ -73,11 +80,15 @@ I believe software engineering is not only about writing code but also about des
 ![IBM Granite](https://img.shields.io/badge/IBM%20Granite-052FAD?style=flat\&logo=ibm\&logoColor=white)
 ![RAG](https://img.shields.io/badge/Retrieval--Augmented_Generation-2563EB?style=flat)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-E11D48?style=flat)
+
 </div>
+
 ---
 
 ## 🌐 Frontend Development
+
 <div align="center">
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
@@ -87,35 +98,48 @@ I believe software engineering is not only about writing code but also about des
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=next.js\&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat\&logo=angular\&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat\&logo=ionic\&logoColor=white)
+
 </div>
+
 ---
 
 ## ⚙️ Backend Development
+
 <div align="center">
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat\&logo=flask\&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat\&logo=laravel\&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-0F766E?style=flat)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat\&logo=jsonwebtokens\&logoColor=white)
+
 </div>
+
 ---
 
 ## 🗄️ Database
+
 <div align="center">
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat\&logo=postgresql\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat\&logo=sqlite\&logoColor=white)
+
 </div>
+
 ---
 
 ## 🛠️ Development Tools
+
 <div align="center">
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat\&logo=visualstudiocode\&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat\&logo=ubuntu\&logoColor=white)
+
 </div>
 
 ---
