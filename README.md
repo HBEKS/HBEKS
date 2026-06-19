@@ -72,14 +72,14 @@ I believe software engineering is not only about writing code but also about des
 
 <div align="center">
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
 ![Sentence Transformers](https://img.shields.io/badge/SentenceTransformers-orange?style=flat)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
-![IBM Granite](https://img.shields.io/badge/IBM%20Granite-052FAD?style=flat\&logo=ibm\&logoColor=white)
-![RAG](https://img.shields.io/badge/Retrieval--Augmented_Generation-2563EB?style=flat)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-E11D48?style=flat)
+![cuML by RAPIDS](https://img.shields.io/badge/cuML%20by%20RAPIDS-76B900?style=flat&logo=nvidia&logoColor=white)
+![Retrieval-Augmented Generation](https://img.shields.io/badge/RAG-2563EB?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-E11D48?style=flat)
 
 </div>
 
@@ -94,7 +94,6 @@ I believe software engineering is not only about writing code but also about des
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat\&logo=bootstrap\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat\&logo=tailwind-css\&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=next.js\&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat\&logo=angular\&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat\&logo=ionic\&logoColor=white)
@@ -111,7 +110,6 @@ I believe software engineering is not only about writing code but also about des
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat\&logo=flask\&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat\&logo=laravel\&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-0F766E?style=flat)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat\&logo=jsonwebtokens\&logoColor=white)
 
 </div>
 
@@ -122,8 +120,6 @@ I believe software engineering is not only about writing code but also about des
 <div align="center">
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat\&logo=postgresql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat\&logo=sqlite\&logoColor=white)
 
 </div>
 
