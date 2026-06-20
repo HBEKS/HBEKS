@@ -184,24 +184,6 @@ An end-to-end machine learning project demonstrating the complete ML lifecycle, 
 * Reproducible workflow
 
 ---
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HBEKS&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HBEKS&layout=compact&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HBEKS&theme=tokyonight"/>
-
-</div>
-
----
 # 🌱 Currently Learning
 
 * Agentic AI Systems
